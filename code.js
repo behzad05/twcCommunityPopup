@@ -1,6 +1,6 @@
-console.log ("script is working 18")
+console.log ("script is working 20")
 
-(function () {
+
   "use strict";
 
   var WISP_DELAY_MS = 10000;
@@ -45,4 +45,4 @@ console.log ("script is working 18")
   } catch (e6) {
     // if even setTimeout fails, custom JS isn't running at all
   }
-})();
+
