@@ -1,9 +1,7 @@
-console.log ("script is working 23")
+console.log ("script is working 24")
 
 
-  // Prevent double run
-  if (window.__GHL_TUT_FLOW_V1__) return;
-  window.__GHL_TUT_FLOW_V1__ = true;
+ 
 
   var TARGET_SELECTOR = "#create-post__trigger";
   var CUSTOM_FIELD_ID = "pMR80x1BrnpsGE0ULX6e";
