@@ -1,8 +1,6 @@
 console.log ("script is working 22")
 
 
-  "use strict";
-
   // Prevent double run
   if (window.__GHL_TUT_FLOW_V1__) return;
   window.__GHL_TUT_FLOW_V1__ = true;
